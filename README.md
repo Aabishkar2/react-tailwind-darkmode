@@ -3,7 +3,7 @@
 This is a simple single page web application that demonstrates 
 an example of how to use darkmode in React using Tailwind CSS.
 
-![darkmodeReact](https://user-images.githubusercontent.com/29084705/213922938-196ce2e6-4af1-4e69-a230-f2cbb1d73a17.gif)
+![compressDarkModeGif](https://user-images.githubusercontent.com/29084705/213923259-acf48e62-e841-474f-979c-13c6a8175252.gif)
 
 To run the app in your local machine, use following steps:
 
